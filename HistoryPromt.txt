@@ -1,0 +1,18 @@
+1. Đúng rồi nhưng tôi muốn bổ sung thêm ở phần discount, tôi muốn khi cần có thể chọn cả giảm giá bằng tiền + giảm giá phần trăm, điều này áp dụng cho cả từng sản phẩm và cả toàn bộ sản phẩm, hãy nói lại xem bạn hiểu ý tôi không nếu tôi nói ok thì mới thực hiện nhé
+
+2. đầu tiên là bị bể layout css rồi nhé
+thứ hai là chức năng ẩn và hiện ảnh cũ của tôi bị biến mất 
+thứ 3, ở chỗ phần trăm giảm % giảm tại sao lại có thêm cả % ngay phía sau rồi mới tới ô input nhập phần trăm, ở chỗ giảm phần trăm tôi thấy chỉ cần Giảm rồi tới ô nhập số rồi sau đó có % là được rồi
+
+3. Bổ sung thêm áp dụng discount cho cả đơn vị vận chuyển nữa nhé
+Hãy thêm phần quản lý kho, mỗi kho có thể biết số lượng hàng tồn và khi cần có thể đặt lệnh để chuyển hàng từ kho này qua kho khác
+
+4. Code bạn đưa tôi bị cắt đi rất nhiều so với code cũ nhé hãy mang trở lại code cũ và bổ sung thêm áp dụng discount cho cả đơn vị vận chuyển
+
+5. Phần đơn hàng của bạn bạn đã bỏ đi của tôi đi rất nhiều, 
+trước đó 
+- sau khi đặt hàng thành công của tôi có chức năng là quay video đóng gói và hiện đã bị bỏ toàn bộ đi, đồng ngĩa với phần  Quản lý video đơn hàng hiện bạn cũng đã bỏ đi. mang nó trở lại
+- ở phần đơn hàng tôi còn có edit nữa
+
+6. tại sao bản code mới lại thiếu quá nhiều tính năng ở trong bản code cũ này, hãy bổ sung lại vào code mới cho tôi, 
+Với phần layout của giỏ hàng height đã được set max rồi tại sao lại thay đổi ? chỗ hiện sản phẩm đã thêm vào giỏ phải có thể scroll được và không làm height của giỏ hàng bị tăng quá nhiều... và các css cũng như layout khác cũng bị bể !!!
