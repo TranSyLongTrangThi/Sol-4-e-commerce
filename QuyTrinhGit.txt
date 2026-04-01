@@ -1,0 +1,33 @@
+master: nhánh chính (production / ổn định)
+		TÓM TẮT 
+1. pull master
+2. merge master vào nhánh của mình
+3. code
+4. add
+5. commit
+6. push nhánh của mình
+7. khi hoàn thành -> merge vào master
+
+		CHI TIẾT
+1. Bắt đầu làm việc
+Luôn cập nhật master trước:
+git checkout master
+git pull origin master
+
+Cập nhật nhánh con:
+git checkout (tên nhánh con)
+git merge master
+
+2. Đẩy code lên Git nhánh cá nhân
+Làm trên nhánh của mình:
+git checkout (...)
+git add .
+git commit -m "update  tính năng gì đấy..."
+git push origin (...)
+
+3. Gộp vào nhánh master
+git checkout master
+git pull origin master
+
+git merge (tên nhánh con)
+git push origin master
